@@ -47,14 +47,22 @@ python sales_analysis.py
 ## Screenshots
 
 Line chart for monthly sales trend.
+<img width="1001" height="530" alt="Screenshot 2025-08-12 at 12 10 26 AM" src="https://github.com/user-attachments/assets/7abdace3-2bae-4acf-ac74-959ff384bac0" />
+
 
 Bar chart for top-selling products.
+<img width="1000" height="532" alt="Screenshot 2025-08-12 at 12 10 40 AM" src="https://github.com/user-attachments/assets/448109e7-a779-4073-88de-4919d8133ad0" />
+
 
 Pie chart for regional sales.
+<img width="602" height="628" alt="Screenshot 2025-08-12 at 12 10 58 AM" src="https://github.com/user-attachments/assets/475c5d1c-6dcf-4977-9476-b2f2dae7fbf9" />
+
 
 6-month forecast curve.
+<img width="995" height="526" alt="Screenshot 2025-08-12 at 12 11 12 AM" src="https://github.com/user-attachments/assets/118cb6cf-085a-465a-b65d-9798f25cccae" />
+
 
 ## Author
 
-- [@jayantgulati](https://www.github.com/octokatherine)
+- [@jayant-gulati](https://github.com/jayant-gulati)
 
