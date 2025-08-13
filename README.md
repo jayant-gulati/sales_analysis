@@ -17,7 +17,7 @@ It is designed for business decision-making, providing insights into sales trend
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/jayant-gulati/sales_analysis
 ```
 
 Go to the project directory
